@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "Goya",
+    "regex": "goya"
+  },
+  "models": [
+    {
+      "name": "Air",
+      "regex": "air"
+    },
+    {
+      "name": "Bolt",
+      "regex": "bolt"
+    },
+    {
+      "name": "Carrera",
+      "regex": "carrera"
+    },
+    {
+      "name": "Custom",
+      "regex": "custom"
+    },
+    {
+      "name": "One",
+      "regex": "one"
+    },
+    {
+      "name": "Surf",
+      "regex": "surf"
+    }
+  ]
+}

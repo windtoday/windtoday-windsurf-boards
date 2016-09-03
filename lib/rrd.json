@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "name": "RRD",
+    "regex": "rrd"
+  },
+  "models": [
+    {
+      "name": "360 Evolution",
+      "regex": "Evolution"
+    },
+    {
+      "name": "Firemove",
+      "regex": "move"
+    },
+    {
+      "name": "Firerace",
+      "regex": "race"
+    },
+    {
+      "name": "Firestorm",
+      "regex": "storm"
+    },
+    {
+      "name": "Firewave",
+      "regex": "wave"
+    },
+    {
+      "name": "Freestyle Wave",
+      "regex": "freestyle"
+    },
+    {
+      "name": "Hardcore",
+      "regex": "hardcore"
+    },
+    {
+      "name": "TwinTip",
+      "regex": "twin[ ]?tip"
+    },
+    {
+      "name": "Wave Cult",
+      "regex": "cult"
+    },
+    {
+      "name": "X-Fire",
+      "regex": "x[- ]?fire"
+    }
+  ]
+}

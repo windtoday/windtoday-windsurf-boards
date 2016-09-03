@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "name": "starboard",
+    "regex": "star[ -]?board"
+  },
+  "models": [
+    {
+      "name": "Flare",
+      "regex": "flare"
+    },
+    {
+      "name": "Formula",
+      "regex": "formula"
+    },
+    {
+      "name": "Futura",
+      "regex": "futura"
+    },
+    {
+      "name": "Kode",
+      "regex": "kode"
+    },
+    {
+      "name": "Phantom",
+      "regex": "phantom"
+    },
+    {
+      "name": "Quad",
+      "regex": "quad"
+    },
+    {
+      "name": "Reactor",
+      "regex": "reactor"
+    },
+    {
+      "name": "Slalom",
+      "regex": "slalom"
+    },
+    {
+      "name": "UltraSonic",
+      "regex": "ultrasonic"
+    },
+    {
+      "name": "iSonic",
+      "regex": "isonic"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "brand": {
+    "name": "Naish",
+    "regex": "naish"
+  },
+  "models": [
+    {
+      "name": "Crossover",
+      "regex": "crossover"
+    },
+    {
+      "name": "Dub",
+      "regex": "dub"
+    },
+    {
+      "name": "Global",
+      "regex": "global"
+    },
+    {
+      "name": "Hardline",
+      "regex": "hardline"
+    },
+    {
+      "name": "Kailua",
+      "regex": "kailua"
+    },
+    {
+      "name": "Starship",
+      "regex": "starship"
+    },
+    {
+      "name": "Titan",
+      "regex": "Titan"
+    }
+  ]
+}

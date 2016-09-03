@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "name": "Mistral",
+    "regex": "mistral"
+  },
+  "models": [
+    {
+      "name": "Energy",
+      "regex": "energy"
+    },
+    {
+      "name": "Evolution",
+      "regex": "evolution"
+    },
+    {
+      "name": "Explosion",
+      "regex": "explosion"
+    },
+    {
+      "name": "Joker",
+      "regex": "joker"
+    },
+    {
+      "name": "Quad",
+      "regex": "quad"
+    },
+    {
+      "name": "Screamer",
+      "regex": "screamer"
+    },
+    {
+      "name": "Shockwave",
+      "regex": "shockwave"
+    },
+    {
+      "name": "Slalom",
+      "regex": "slalom"
+    },
+    {
+      "name": "Speed",
+      "regex": "speed"
+    },
+    {
+      "name": "Syncro",
+      "regex": "syncro"
+    }
+  ]
+}

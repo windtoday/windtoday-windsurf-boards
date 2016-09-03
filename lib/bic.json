@@ -1,0 +1,12 @@
+{
+  "brand": {
+    "name": "Bic",
+    "regex": "bic"
+  },
+  "models": [
+    {
+      "name": "Techno",
+      "regex": "Techno"
+    }
+  ]
+}

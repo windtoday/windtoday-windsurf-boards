@@ -1,0 +1,44 @@
+{
+  "brand": {
+    "name": "Patrik Diethelm",
+    "regex": "patrik"
+  },
+  "models": [
+    {
+      "name": "Campello",
+      "regex": "campello"
+    },
+    {
+      "name": "F-Cross",
+      "regex": "cross"
+    },
+    {
+      "name": "F-Race",
+      "regex": "race"
+    },
+    {
+      "name": "F-Ride",
+      "regex": "ride"
+    },
+    {
+      "name": "F-Style",
+      "regex": "style"
+    },
+    {
+      "name": "Formula",
+      "regex": "formula"
+    },
+    {
+      "name": "Slalom",
+      "regex": "slalom"
+    },
+    {
+      "name": "Speed",
+      "regex": "speed"
+    },
+    {
+      "name": "T-Wave",
+      "regex": "wave"
+    }
+  ]
+}

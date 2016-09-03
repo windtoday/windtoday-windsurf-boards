@@ -1,0 +1,40 @@
+{
+  "brand": {
+    "name": "Exocet",
+    "regex": "exocet"
+  },
+  "models": [
+    {
+      "name": "Cross",
+      "regex": "cross"
+    },
+    {
+      "name": "Nano",
+      "regex": "nano"
+    },
+    {
+      "name": "RS",
+      "regex": "rs"
+    },
+    {
+      "name": "S-Line",
+      "regex": "s[ -]?line"
+    },
+    {
+      "name": "U-Surf",
+      "regex": "surf"
+    },
+    {
+      "name": "X-Longboard",
+      "regex": "longboard"
+    },
+    {
+      "name": "X-Move",
+      "regex": "x[ -]?move"
+    },
+    {
+      "name": "X-Wave",
+      "regex": "wave"
+    }
+  ]
+}
