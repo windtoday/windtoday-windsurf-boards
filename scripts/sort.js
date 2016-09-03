@@ -1,7 +1,7 @@
 'use strict'
 
-var jsonFuture = require('json-future')
 var sortKeys = require('sort-keys-recursive')
+var jsonFuture = require('json-future')
 var lodash = require('lodash')
 var path = require('path')
 var files = require('..')

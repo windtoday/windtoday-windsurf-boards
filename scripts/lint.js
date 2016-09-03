@@ -1,8 +1,7 @@
 'use strict'
 
-var isEqual = require('json-is-equal')
 var sortKeys = require('sort-keys-recursive')
-var jsonFuture = require('json-future')
+var isEqual = require('json-is-equal')
 var lodash = require('lodash')
 var files = require('..')
 
