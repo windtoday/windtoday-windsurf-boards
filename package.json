@@ -31,7 +31,7 @@
     "json-future": "latest",
     "json-is-equal": "latest",
     "lodash": "latest",
-    "sort-keys-recursive": "latest",
+    "sort-keys": "latest",
     "standard": "latest"
   },
   "engines": {
