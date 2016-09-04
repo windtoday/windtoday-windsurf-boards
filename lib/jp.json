@@ -1,40 +1,56 @@
 {
   "brand": {
-    "name": "Aerotech",
-    "regex": "aerotech"
+    "name": "JP Australia",
+    "regex": "jp"
   },
   "models": [
     {
-      "name": "Action",
-      "regex": "action"
+      "name": "All Ride",
+      "regex": "all"
     },
     {
-      "name": "Air X",
-      "regex": "air"
+      "name": "Formula",
+      "regex": "formula"
     },
     {
-      "name": "Charge",
-      "regex": "charge"
+      "name": "Freestyle",
+      "regex": "freestyle"
     },
     {
-      "name": "Dagger",
-      "regex": "dagger"
+      "name": "Freestyle Wave",
+      "regex": "fw|free[ ]?wave"
     },
     {
-      "name": "Freespeed",
-      "regex": "freespeed"
+      "name": "Magic Ride",
+      "regex": "magic"
     },
     {
-      "name": "Phantom",
-      "regex": "phantom"
+      "name": "Slalom",
+      "regex": "slalom"
     },
     {
-      "name": "Rapidfire",
-      "regex": "rapidfire"
+      "name": "Speed",
+      "regex": "speed"
     },
     {
-      "name": "Vice",
-      "regex": "vice"
+      "name": "Super Lightwind",
+      "regex": "lightwind"
+    },
+    {
+      "name": "Super Sport",
+      "regex": "sport"
+    },
+    {
+      "name": "Thruster Quad",
+      "regex": "thruster"
+    },
+    {
+      "name": "Wave Slate",
+      "regex": "slate"
+    },
+    {
+      "name": "X-Cite Ride Plus",
+      "regex": "cite"
     }
   ]
 }
