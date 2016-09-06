@@ -14,7 +14,7 @@
     },
     {
       "name": "Freewave",
-      "regex": "freewave"
+      "regex": "wave"
     },
     {
       "name": "Gecko",
@@ -23,6 +23,10 @@
     {
       "name": "Quad",
       "regex": "quad"
+    },
+    {
+      "name": "Ray",
+      "regex": "ray"
     },
     {
       "name": "Ripper",

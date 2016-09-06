@@ -18,7 +18,7 @@
     },
     {
       "name": "Freestyle Wave",
-      "regex": "fw|free[ ]?wave"
+      "regex": "fw|wave"
     },
     {
       "name": "Magic Ride",

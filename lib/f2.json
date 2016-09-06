@@ -33,6 +33,14 @@
       "regex": "sputnik"
     },
     {
+      "name": "Stoke",
+      "regex": "stoke"
+    },
+    {
+      "name": "Style",
+      "regex": "style"
+    },
+    {
       "name": "Vegas",
       "regex": "vegas"
     },

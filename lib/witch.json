@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "Witchcraft",
+    "regex": "witchcraft"
+  },
+  "models": [
+    {
+      "name": "Chakra",
+      "regex": "chakra"
+    },
+    {
+      "name": "Custom",
+      "regex": "custom"
+    },
+    {
+      "name": "Haka",
+      "regex": "haka"
+    },
+    {
+      "name": "Ouija",
+      "regex": "ouija"
+    },
+    {
+      "name": "Shaman",
+      "regex": "shaman"
+    },
+    {
+      "name": "Wave",
+      "regex": "wave"
+    }
+  ]
+}

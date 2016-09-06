@@ -5,6 +5,14 @@
   },
   "models": [
     {
+      "name": "Carve",
+      "regex": "Carve"
+    },
+    {
+      "name": "Evo",
+      "regex": "evo"
+    },
+    {
       "name": "Flare",
       "regex": "flare"
     },
@@ -15,6 +23,10 @@
     {
       "name": "Futura",
       "regex": "futura"
+    },
+    {
+      "name": "Go",
+      "regex": "go"
     },
     {
       "name": "Kode",
@@ -35,6 +47,18 @@
     {
       "name": "Slalom",
       "regex": "slalom"
+    },
+    {
+      "name": "Starsurfer",
+      "regex": "starsurfer"
+    },
+    {
+      "name": "Start",
+      "regex": "start"
+    },
+    {
+      "name": "Trance",
+      "regex": "trance"
     },
     {
       "name": "UltraSonic",
