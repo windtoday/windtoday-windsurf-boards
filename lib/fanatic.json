@@ -21,6 +21,10 @@
       "regex": "gecko"
     },
     {
+      "name": "Hawk",
+      "regex": "hawk"
+    },
+    {
       "name": "Quad",
       "regex": "quad"
     },
@@ -47,10 +51,6 @@
     {
       "name": "Viper",
       "regex": "viper"
-    },
-    {
-      "name": "Hawk",
-      "regex": "hawk"
     }
   ]
 }
