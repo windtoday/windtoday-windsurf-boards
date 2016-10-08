@@ -47,6 +47,10 @@
     {
       "name": "Viper",
       "regex": "viper"
+    },
+    {
+      "name": "Hawk",
+      "regex": "hawk"
     }
   ]
 }
