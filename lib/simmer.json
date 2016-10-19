@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "name": "Simmer",
+    "regex": "simmer"
+  },
+  "models": [
+    {
+      "name": "Flywave",
+      "regex": "Flywave"
+    },
+    {
+      "name": "Freegal",
+      "regex": "Freegal"
+    },
+    {
+      "name": "Freemove",
+      "regex": "Freemove"
+    },
+    {
+      "name": "Helix",
+      "regex": "helix"
+    },
+    {
+      "name": "Quantum",
+      "regex": "Quantum"
+    }
+  ]
+}
