@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "AHD",
+    "regex": "ahd"
+  },
+  "models": [
+    {
+      "name": "DG",
+      "regex": "dg"
+    },
+    {
+      "name": "Expression",
+      "regex": "expression"
+    },
+    {
+      "name": "Fast Forward",
+      "regex": "forward"
+    },
+    {
+      "name": "Freerace",
+      "regex": "freerace"
+    },
+    {
+      "name": "SL2",
+      "regex": "sl2"
+    },
+    {
+      "name": "Sealion",
+      "regex": "sealion"
+    }
+  ]
+}
