@@ -5,6 +5,10 @@
   },
   "models": [
     {
+      "name": "Atom",
+      "regex": "atom"
+    },
+    {
       "name": "Carve",
       "regex": "Carve"
     },
