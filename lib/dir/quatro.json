@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "Quatro",
+    "regex": "quatro"
+  },
+  "models": [
+    {
+      "name": "Cube",
+      "regex": "cube"
+    },
+    {
+      "name": "Mono",
+      "regex": "mono"
+    },
+    {
+      "name": "Pyramid",
+      "regex": "pyramid"
+    },
+    {
+      "name": "Sphere",
+      "regex": "sphere"
+    },
+    {
+      "name": "Supermini",
+      "regex": "supermini"
+    },
+    {
+      "name": "Tetra",
+      "regex": "tetra"
+    }
+  ]
+}
