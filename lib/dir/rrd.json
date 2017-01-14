@@ -34,7 +34,7 @@
     },
     {
       "name": "TwinTip",
-      "regex": "twin[ ]?tip"
+      "regex": "twin.?tip"
     },
     {
       "name": "Wave Cult",
@@ -42,7 +42,7 @@
     },
     {
       "name": "X-Fire",
-      "regex": "x[- ]?fire"
+      "regex": "x.?fire"
     }
   ]
 }

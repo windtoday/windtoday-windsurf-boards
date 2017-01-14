@@ -18,7 +18,7 @@
     },
     {
       "name": "S-Line",
-      "regex": "s[ -]?line"
+      "regex": "line"
     },
     {
       "name": "U-Surf",
@@ -30,7 +30,7 @@
     },
     {
       "name": "X-Move",
-      "regex": "x[ -]?move"
+      "regex": "move"
     },
     {
       "name": "X-Wave",

@@ -1,7 +1,7 @@
 {
   "brand": {
     "name": "Starboard",
-    "regex": "star[ -]?board|stb"
+    "regex": "star.?board|stb"
   },
   "models": [
     {
