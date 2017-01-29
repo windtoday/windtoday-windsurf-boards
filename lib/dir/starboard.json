@@ -70,7 +70,7 @@
     },
     {
       "name": "iSonic",
-      "regex": "isonic"
+      "regex": "i.?sonic"
     }
   ]
 }
