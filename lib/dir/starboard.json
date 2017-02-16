@@ -5,8 +5,16 @@
   },
   "models": [
     {
+      "name": "Acid",
+      "regex": "acid"
+    },
+    {
       "name": "Atom",
       "regex": "atom"
+    },
+    {
+      "name": "Black Box",
+      "regex": "black.?block"
     },
     {
       "name": "Carve",
@@ -47,6 +55,14 @@
     {
       "name": "Reactor",
       "regex": "reactor"
+    },
+    {
+      "name": "Rio",
+      "regex": "rio"
+    },
+    {
+      "name": "SType",
+      "regex": "s.?type"
     },
     {
       "name": "Slalom",
