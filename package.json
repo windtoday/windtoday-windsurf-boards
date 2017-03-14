@@ -1,7 +1,7 @@
 {
-  "name": "windtoday-boards",
-  "description": "Directory of windsurfing boards",
-  "homepage": "https://github.com/windtoday/windtoday-boards",
+  "name": "windtoday-windsurf-boards",
+  "description": "Directory of windsurf boards",
+  "homepage": "https://github.com/windtoday/windtoday-windsurf-boards",
   "version": "0.0.0",
   "main": "index.js",
   "author": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/windtoday/windtoday-boards.git"
+    "url": "git+https://github.com/windtoday/windtoday-windsurf-boards.git"
   },
   "bugs": {
-    "url": "https://github.com/windtoday/windtoday-boards/issues"
+    "url": "https://github.com/windtoday/windtoday-windsurf-boards/issues"
   },
   "keywords": [
     "boards",
