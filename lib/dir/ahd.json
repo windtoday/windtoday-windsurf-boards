@@ -9,6 +9,10 @@
       "regex": "dg"
     },
     {
+      "name": "Diamond",
+      "regex": "diamond"
+    },
+    {
       "name": "Expression",
       "regex": "expression"
     },
