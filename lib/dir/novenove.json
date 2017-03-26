@@ -1,0 +1,20 @@
+{
+  "brand": {
+    "name": "Novenove",
+    "regex": "nove.?nove"
+  },
+  "models": [
+    {
+      "name": "Chameleon",
+      "regex": "chameleon"
+    },
+    {
+      "name": "Revo",
+      "regex": "revo"
+    },
+    {
+      "name": "Style",
+      "regex": "style"
+    }
+  ]
+}
