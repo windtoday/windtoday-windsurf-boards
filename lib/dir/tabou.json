@@ -17,6 +17,10 @@
       "regex": "curve"
     },
     {
+      "name": "Guru",
+      "regex": "guru"
+    },
+    {
       "name": "Manta",
       "regex": "manta"
     },
