@@ -1,36 +1,52 @@
 {
   "brand": {
     "name": "AHD",
-    "regex": "ahd"
+    "regex": [
+      "ahd"
+    ]
   },
   "models": [
     {
       "name": "DG",
-      "regex": "dg"
+      "regex": [
+        "dg"
+      ]
     },
     {
       "name": "Diamond",
-      "regex": "diamond"
+      "regex": [
+        "diamond"
+      ]
     },
     {
       "name": "Expression",
-      "regex": "expression"
+      "regex": [
+        "expression"
+      ]
     },
     {
       "name": "Fast Forward",
-      "regex": "forward"
+      "regex": [
+        "forward"
+      ]
     },
     {
       "name": "Freerace",
-      "regex": "freerace"
+      "regex": [
+        "freerace"
+      ]
     },
     {
       "name": "SL2",
-      "regex": "sl2"
+      "regex": [
+        "sl2"
+      ]
     },
     {
       "name": "Sealion",
-      "regex": "sealion"
+      "regex": [
+        "sealion"
+      ]
     }
   ]
 }

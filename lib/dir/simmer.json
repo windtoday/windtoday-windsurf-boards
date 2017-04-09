@@ -1,28 +1,40 @@
 {
   "brand": {
     "name": "Simmer",
-    "regex": "simmer"
+    "regex": [
+      "simmer"
+    ]
   },
   "models": [
     {
       "name": "Flywave",
-      "regex": "Flywave"
+      "regex": [
+        "Flywave"
+      ]
     },
     {
       "name": "Freegal",
-      "regex": "Freegal"
+      "regex": [
+        "Freegal"
+      ]
     },
     {
       "name": "Freemove",
-      "regex": "Freemove"
+      "regex": [
+        "Freemove"
+      ]
     },
     {
       "name": "Helix",
-      "regex": "helix"
+      "regex": [
+        "helix"
+      ]
     },
     {
       "name": "Quantum",
-      "regex": "Quantum"
+      "regex": [
+        "Quantum"
+      ]
     }
   ]
 }

@@ -1,48 +1,70 @@
 {
   "brand": {
     "name": "Mistral",
-    "regex": "mistral"
+    "regex": [
+      "mistral"
+    ]
   },
   "models": [
     {
       "name": "Energy",
-      "regex": "energy"
+      "regex": [
+        "energy"
+      ]
     },
     {
       "name": "Evolution",
-      "regex": "evolution"
+      "regex": [
+        "evolution"
+      ]
     },
     {
       "name": "Explosion",
-      "regex": "explosion"
+      "regex": [
+        "explosion"
+      ]
     },
     {
       "name": "Joker",
-      "regex": "joker"
+      "regex": [
+        "joker"
+      ]
     },
     {
       "name": "Quad",
-      "regex": "quad"
+      "regex": [
+        "quad"
+      ]
     },
     {
       "name": "Screamer",
-      "regex": "screamer"
+      "regex": [
+        "screamer"
+      ]
     },
     {
       "name": "Shockwave",
-      "regex": "shockwave"
+      "regex": [
+        "shockwave"
+      ]
     },
     {
       "name": "Slalom",
-      "regex": "slalom"
+      "regex": [
+        "slalom"
+      ]
     },
     {
       "name": "Speed",
-      "regex": "speed"
+      "regex": [
+        "speed"
+      ]
     },
     {
       "name": "Syncro",
-      "regex": "syncro"
+      "regex": [
+        "syncro"
+      ]
     }
   ]
 }

@@ -1,56 +1,82 @@
 {
   "brand": {
     "name": "Fanatic",
-    "regex": "fanatic"
+    "regex": [
+      "fanatic"
+    ]
   },
   "models": [
     {
       "name": "Blast",
-      "regex": "blast"
+      "regex": [
+        "blast"
+      ]
     },
     {
       "name": "Falcon",
-      "regex": "falcon"
+      "regex": [
+        "falcon"
+      ]
     },
     {
       "name": "Freewave",
-      "regex": "wave"
+      "regex": [
+        "wave"
+      ]
     },
     {
       "name": "Gecko",
-      "regex": "gecko"
+      "regex": [
+        "gecko"
+      ]
     },
     {
       "name": "Hawk",
-      "regex": "hawk"
+      "regex": [
+        "hawk"
+      ]
     },
     {
       "name": "Quad",
-      "regex": "quad"
+      "regex": [
+        "quad"
+      ]
     },
     {
       "name": "Ray",
-      "regex": "ray"
+      "regex": [
+        "ray"
+      ]
     },
     {
       "name": "Ripper",
-      "regex": "ripper"
+      "regex": [
+        "ripper"
+      ]
     },
     {
       "name": "Skate",
-      "regex": "skate"
+      "regex": [
+        "skate"
+      ]
     },
     {
       "name": "Stubby",
-      "regex": "stubby"
+      "regex": [
+        "stubby"
+      ]
     },
     {
       "name": "Triwave",
-      "regex": "triwave"
+      "regex": [
+        "triwave"
+      ]
     },
     {
       "name": "Viper",
-      "regex": "viper"
+      "regex": [
+        "viper"
+      ]
     }
   ]
 }

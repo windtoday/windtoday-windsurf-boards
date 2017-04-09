@@ -1,40 +1,58 @@
 {
   "brand": {
     "name": "Exocet",
-    "regex": "exocet"
+    "regex": [
+      "exocet"
+    ]
   },
   "models": [
     {
       "name": "Cross",
-      "regex": "cross"
+      "regex": [
+        "cross"
+      ]
     },
     {
       "name": "Nano",
-      "regex": "nano"
+      "regex": [
+        "nano"
+      ]
     },
     {
       "name": "RS",
-      "regex": "rs"
+      "regex": [
+        "rs"
+      ]
     },
     {
       "name": "S-Line",
-      "regex": "line"
+      "regex": [
+        "line"
+      ]
     },
     {
       "name": "U-Surf",
-      "regex": "surf"
+      "regex": [
+        "surf"
+      ]
     },
     {
       "name": "X-Longboard",
-      "regex": "longboard"
+      "regex": [
+        "longboard"
+      ]
     },
     {
       "name": "X-Move",
-      "regex": "move"
+      "regex": [
+        "move"
+      ]
     },
     {
       "name": "X-Wave",
-      "regex": "wave"
+      "regex": [
+        "wave"
+      ]
     }
   ]
 }

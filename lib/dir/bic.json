@@ -1,20 +1,28 @@
 {
   "brand": {
     "name": "Bic",
-    "regex": "bic"
+    "regex": [
+      "bic"
+    ]
   },
   "models": [
     {
       "name": "Blast",
-      "regex": "blast"
+      "regex": [
+        "blast"
+      ]
     },
     {
       "name": "Techno",
-      "regex": "Techno"
+      "regex": [
+        "Techno"
+      ]
     },
     {
       "name": "Veloce",
-      "regex": "veloce"
+      "regex": [
+        "veloce"
+      ]
     }
   ]
 }

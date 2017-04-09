@@ -1,7 +1,9 @@
 {
   "brand": {
     "name": "mXr",
-    "regex": "mxr"
+    "regex": [
+      "mxr"
+    ]
   },
   "models": []
 }

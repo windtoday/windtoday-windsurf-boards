@@ -1,36 +1,52 @@
 {
   "brand": {
     "name": "Goya",
-    "regex": "goya"
+    "regex": [
+      "goya"
+    ]
   },
   "models": [
     {
       "name": "Air",
-      "regex": "air"
+      "regex": [
+        "air"
+      ]
     },
     {
       "name": "Bolt",
-      "regex": "bolt"
+      "regex": [
+        "bolt"
+      ]
     },
     {
       "name": "Carrera",
-      "regex": "carrera"
+      "regex": [
+        "carrera"
+      ]
     },
     {
       "name": "Custom",
-      "regex": "custom"
+      "regex": [
+        "custom"
+      ]
     },
     {
       "name": "One",
-      "regex": "one"
+      "regex": [
+        "one"
+      ]
     },
     {
       "name": "Surf",
-      "regex": "surf"
+      "regex": [
+        "surf"
+      ]
     },
     {
       "name": "Volar",
-      "regex": "volar"
+      "regex": [
+        "volar"
+      ]
     }
   ]
 }

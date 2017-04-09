@@ -1,56 +1,82 @@
 {
   "brand": {
     "name": "F2",
-    "regex": "f2"
+    "regex": [
+      "f2"
+    ]
   },
   "models": [
     {
       "name": "Barracuda",
-      "regex": "barracuda"
+      "regex": [
+        "barracuda"
+      ]
     },
     {
       "name": "Rave",
-      "regex": "rave"
+      "regex": [
+        "rave"
+      ]
     },
     {
       "name": "Rebel",
-      "regex": "rebel"
+      "regex": [
+        "rebel"
+      ]
     },
     {
       "name": "Ride",
-      "regex": "ride"
+      "regex": [
+        "ride"
+      ]
     },
     {
       "name": "Rodeo",
-      "regex": "rodeo"
+      "regex": [
+        "rodeo"
+      ]
     },
     {
       "name": "SX Silberpfeil",
-      "regex": "sx"
+      "regex": [
+        "sx"
+      ]
     },
     {
       "name": "Sputnik",
-      "regex": "sputnik"
+      "regex": [
+        "sputnik"
+      ]
     },
     {
       "name": "Stoke",
-      "regex": "stoke"
+      "regex": [
+        "stoke"
+      ]
     },
     {
       "name": "Style",
-      "regex": "style"
+      "regex": [
+        "style"
+      ]
     },
     {
       "name": "Vegas",
-      "regex": "vegas"
+      "regex": [
+        "vegas"
+      ]
     },
     {
       "name": "Xantos",
-      "regex": "xantos"
+      "regex": [
+        "xantos"
+      ]
     },
     {
       "name": "Z1",
-      "regex": "z1"
+      "regex": [
+        "z1"
+      ]
     }
   ]
 }

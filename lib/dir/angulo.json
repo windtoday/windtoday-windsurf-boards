@@ -1,32 +1,46 @@
 {
   "brand": {
     "name": "Angulo",
-    "regex": "angulo"
+    "regex": [
+      "angulo"
+    ]
   },
   "models": [
     {
       "name": "CV1",
-      "regex": "cv1"
+      "regex": [
+        "cv1"
+      ]
     },
     {
       "name": "Chango",
-      "regex": "chango"
+      "regex": [
+        "chango"
+      ]
     },
     {
       "name": "Magnum",
-      "regex": "magnum"
+      "regex": [
+        "magnum"
+      ]
     },
     {
       "name": "Release",
-      "regex": "release"
+      "regex": [
+        "release"
+      ]
     },
     {
       "name": "Triumph",
-      "regex": "triumph"
+      "regex": [
+        "triumph"
+      ]
     },
     {
       "name": "Victory",
-      "regex": "victory"
+      "regex": [
+        "victory"
+      ]
     }
   ]
 }

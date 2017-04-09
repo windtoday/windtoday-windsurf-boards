@@ -1,48 +1,70 @@
 {
   "brand": {
     "name": "Tabou",
-    "regex": "tabou"
+    "regex": [
+      "tabou"
+    ]
   },
   "models": [
     {
       "name": "3S",
-      "regex": "3s"
+      "regex": [
+        "3s"
+      ]
     },
     {
       "name": "Bullitt",
-      "regex": "bullitt"
+      "regex": [
+        "bullitt"
+      ]
     },
     {
       "name": "Da Curve",
-      "regex": "curve"
+      "regex": [
+        "curve"
+      ]
     },
     {
       "name": "Guru",
-      "regex": "guru"
+      "regex": [
+        "guru"
+      ]
     },
     {
       "name": "Manta",
-      "regex": "manta"
+      "regex": [
+        "manta"
+      ]
     },
     {
       "name": "Pocket",
-      "regex": "pocket"
+      "regex": [
+        "pocket"
+      ]
     },
     {
       "name": "Rocket",
-      "regex": "rocket"
+      "regex": [
+        "rocket"
+      ]
     },
     {
       "name": "Speedster",
-      "regex": "speedster"
+      "regex": [
+        "speedster"
+      ]
     },
     {
       "name": "Thunder",
-      "regex": "thunder"
+      "regex": [
+        "thunder"
+      ]
     },
     {
       "name": "Twister",
-      "regex": "twsiter"
+      "regex": [
+        "twister"
+      ]
     }
   ]
 }

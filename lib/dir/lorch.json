@@ -1,48 +1,71 @@
 {
   "brand": {
     "name": "Lorch",
-    "regex": "lorch"
+    "regex": [
+      "lorch"
+    ]
   },
   "models": [
     {
       "name": "Academy",
-      "regex": "academy"
+      "regex": [
+        "academy"
+      ]
     },
     {
       "name": "Bird",
-      "regex": "bird"
+      "regex": [
+        "bird"
+      ]
     },
     {
       "name": "Breeze",
-      "regex": "breeze"
+      "regex": [
+        "breeze"
+      ]
     },
     {
       "name": "Glider",
-      "regex": "glider"
+      "regex": [
+        "glider"
+      ]
     },
     {
       "name": "Hunter",
-      "regex": "hunter"
+      "regex": [
+        "hunter"
+      ]
     },
     {
       "name": "Mirage",
-      "regex": "mirage"
+      "regex": [
+        "mirage"
+      ]
     },
     {
       "name": "Offroad",
-      "regex": "offroad"
+      "regex": [
+        "offroad"
+      ]
     },
     {
       "name": "Splash Truster",
-      "regex": "splash|truster"
+      "regex": [
+        "splash",
+        "truster"
+      ]
     },
     {
       "name": "Starlet",
-      "regex": "starlet"
+      "regex": [
+        "starlet"
+      ]
     },
     {
       "name": "Thunderbird",
-      "regex": "thunderbird"
+      "regex": [
+        "thunderbird"
+      ]
     }
   ]
 }

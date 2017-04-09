@@ -1,32 +1,46 @@
 {
   "brand": {
     "name": "Quatro",
-    "regex": "quatro"
+    "regex": [
+      "quatro"
+    ]
   },
   "models": [
     {
       "name": "Cube",
-      "regex": "cube"
+      "regex": [
+        "cube"
+      ]
     },
     {
       "name": "Mono",
-      "regex": "mono"
+      "regex": [
+        "mono"
+      ]
     },
     {
       "name": "Pyramid",
-      "regex": "pyramid"
+      "regex": [
+        "pyramid"
+      ]
     },
     {
       "name": "Sphere",
-      "regex": "sphere"
+      "regex": [
+        "sphere"
+      ]
     },
     {
       "name": "Supermini",
-      "regex": "supermini"
+      "regex": [
+        "supermini"
+      ]
     },
     {
       "name": "Tetra",
-      "regex": "tetra"
+      "regex": [
+        "tetra"
+      ]
     }
   ]
 }

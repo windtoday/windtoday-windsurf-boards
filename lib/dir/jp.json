@@ -1,56 +1,83 @@
 {
   "brand": {
     "name": "JP Australia",
-    "regex": "jp"
+    "regex": [
+      "jp"
+    ]
   },
   "models": [
     {
       "name": "All Ride",
-      "regex": "all"
+      "regex": [
+        "all"
+      ]
     },
     {
       "name": "Formula",
-      "regex": "formula"
+      "regex": [
+        "formula"
+      ]
     },
     {
       "name": "Freestyle",
-      "regex": "freestyle"
+      "regex": [
+        "freestyle"
+      ]
     },
     {
       "name": "Freestyle Wave",
-      "regex": "fw|wave"
+      "regex": [
+        "fw",
+        "wave"
+      ]
     },
     {
       "name": "Magic Ride",
-      "regex": "magic"
+      "regex": [
+        "magic"
+      ]
     },
     {
       "name": "Slalom",
-      "regex": "slalom"
+      "regex": [
+        "slalom"
+      ]
     },
     {
       "name": "Speed",
-      "regex": "speed"
+      "regex": [
+        "speed"
+      ]
     },
     {
       "name": "Super Lightwind",
-      "regex": "lightwind"
+      "regex": [
+        "lightwind"
+      ]
     },
     {
       "name": "Super Sport",
-      "regex": "sport"
+      "regex": [
+        "sport"
+      ]
     },
     {
       "name": "Thruster Quad",
-      "regex": "thruster"
+      "regex": [
+        "thruster"
+      ]
     },
     {
       "name": "Wave Slate",
-      "regex": "slate"
+      "regex": [
+        "slate"
+      ]
     },
     {
       "name": "X-Cite Ride Plus",
-      "regex": "cite"
+      "regex": [
+        "cite"
+      ]
     }
   ]
 }
