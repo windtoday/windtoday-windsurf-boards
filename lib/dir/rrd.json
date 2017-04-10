@@ -37,9 +37,9 @@
       ]
     },
     {
-      "name": "Freestyle Wave",
+      "name": "Freewave",
       "regex": [
-        "(?:free)?wave",
+        "(?:free(?:style.?)?)?wave",
         "fw"
       ]
     },

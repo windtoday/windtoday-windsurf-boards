@@ -2,7 +2,7 @@
   "brand": {
     "name": "JP Australia",
     "regex": [
-      "jp"
+      "jp(?:.australia)?"
     ]
   },
   "models": [
@@ -27,7 +27,7 @@
     {
       "name": "Freewave",
       "regex": [
-        "(?:free)?wave",
+        "(?:free(?:style.?)?)?wave",
         "fw"
       ]
     },
@@ -58,7 +58,8 @@
     {
       "name": "Super Sport",
       "regex": [
-        "(?:super.)?sport"
+        "super.?sport(?:.?pro(?:.?edition)?)?",
+        "sport(?:.?pro(?:.?edition)?)?"
       ]
     },
     {
@@ -76,7 +77,7 @@
     {
       "name": "X-Cite Ride Plus",
       "regex": [
-        "x.cite(?: ride(?: plus)?)?"
+        "x.cite(?:.?ride(?:.?plus)?)?"
       ]
     }
   ]
