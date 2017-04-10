@@ -27,7 +27,7 @@
     {
       "name": "Fast Forward",
       "regex": [
-        "forward"
+        "f(?:ast.f)?orward"
       ]
     },
     {

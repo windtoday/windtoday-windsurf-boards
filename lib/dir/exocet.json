@@ -27,31 +27,31 @@
     {
       "name": "S-Line",
       "regex": [
-        "line"
+        "(?:s.)?line"
       ]
     },
     {
       "name": "U-Surf",
       "regex": [
-        "surf"
+        "(?:u.)?surf"
       ]
     },
     {
       "name": "X-Longboard",
       "regex": [
-        "longboard"
+        "(?:x.)?longboard"
       ]
     },
     {
       "name": "X-Move",
       "regex": [
-        "move"
+        "(?:x.)?move"
       ]
     },
     {
       "name": "X-Wave",
       "regex": [
-        "wave"
+        "(?:x.)?wave"
       ]
     }
   ]

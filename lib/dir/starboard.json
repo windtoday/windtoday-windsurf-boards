@@ -22,13 +22,13 @@
     {
       "name": "Black Box",
       "regex": [
-        "black.?block"
+        "black.?box"
       ]
     },
     {
       "name": "Carve",
       "regex": [
-        "Carve"
+        "carve"
       ]
     },
     {

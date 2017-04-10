@@ -21,7 +21,7 @@
     {
       "name": "Da Curve",
       "regex": [
-        "curve"
+        "(?:da )?curve"
       ]
     },
     {

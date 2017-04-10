@@ -39,7 +39,8 @@
     {
       "name": "SX Silberpfeil",
       "regex": [
-        "sx"
+        "silberpfeil",
+        "sx(?:.silberpfeil)?"
       ]
     },
     {

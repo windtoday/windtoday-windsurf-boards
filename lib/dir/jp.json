@@ -9,7 +9,7 @@
     {
       "name": "All Ride",
       "regex": [
-        "all"
+        "(?:all.)?ride"
       ]
     },
     {
@@ -25,16 +25,16 @@
       ]
     },
     {
-      "name": "Freestyle Wave",
+      "name": "Freewave",
       "regex": [
-        "fw",
-        "wave"
+        "(?:free)?wave",
+        "fw"
       ]
     },
     {
       "name": "Magic Ride",
       "regex": [
-        "magic"
+        "(?:magic.)?ride"
       ]
     },
     {
@@ -52,31 +52,31 @@
     {
       "name": "Super Lightwind",
       "regex": [
-        "lightwind"
+        "(?:super.)?lightwind"
       ]
     },
     {
       "name": "Super Sport",
       "regex": [
-        "sport"
+        "(?:super.)?sport"
       ]
     },
     {
       "name": "Thruster Quad",
       "regex": [
-        "thruster"
+        "thruster(?:.quad)?"
       ]
     },
     {
       "name": "Wave Slate",
       "regex": [
-        "slate"
+        "(?:wave.)?slate"
       ]
     },
     {
       "name": "X-Cite Ride Plus",
       "regex": [
-        "cite"
+        "x.cite(?: ride(?: plus)?)?"
       ]
     }
   ]

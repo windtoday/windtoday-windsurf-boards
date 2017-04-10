@@ -9,37 +9,38 @@
     {
       "name": "360 Evolution",
       "regex": [
-        "Evolution"
+        "(?:360.)?evolution"
       ]
     },
     {
       "name": "Firemove",
       "regex": [
-        "move"
+        "(?:fire)?move"
       ]
     },
     {
       "name": "Firerace",
       "regex": [
-        "race"
+        "(?:fire)?race"
       ]
     },
     {
       "name": "Firestorm",
       "regex": [
-        "storm"
+        "(?:fire)?storm"
       ]
     },
     {
       "name": "Firewave",
       "regex": [
-        "wave"
+        "(?:fire)?wave"
       ]
     },
     {
       "name": "Freestyle Wave",
       "regex": [
-        "freestyle"
+        "(?:free)?wave",
+        "fw"
       ]
     },
     {

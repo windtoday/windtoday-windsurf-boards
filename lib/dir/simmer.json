@@ -9,19 +9,19 @@
     {
       "name": "Flywave",
       "regex": [
-        "Flywave"
+        "flywave"
       ]
     },
     {
       "name": "Freegal",
       "regex": [
-        "Freegal"
+        "freegal"
       ]
     },
     {
       "name": "Freemove",
       "regex": [
-        "Freemove"
+        "freemove"
       ]
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Quantum",
       "regex": [
-        "Quantum"
+        "quantum"
       ]
     }
   ]

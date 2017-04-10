@@ -15,25 +15,25 @@
     {
       "name": "F-Cross",
       "regex": [
-        "cross"
+        "(?:f.)?cross"
       ]
     },
     {
       "name": "F-Race",
       "regex": [
-        "race"
+        "(?:f.)?race"
       ]
     },
     {
       "name": "F-Ride",
       "regex": [
-        "ride"
+        "(?:f.)?ride"
       ]
     },
     {
       "name": "F-Style",
       "regex": [
-        "style"
+        "(?:f.)?style"
       ]
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "T-Wave",
       "regex": [
-        "wave"
+        "(?:t.)?wave"
       ]
     }
   ]
