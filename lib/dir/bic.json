@@ -13,9 +13,21 @@
       ]
     },
     {
+      "name": "Nova",
+      "regex": [
+        "nova"
+      ]
+    },
+    {
+      "name": "One Design",
+      "regex": [
+        "one(?:.design)?"
+      ]
+    },
+    {
       "name": "Techno",
       "regex": [
-        "Techno"
+        "techno"
       ]
     },
     {
