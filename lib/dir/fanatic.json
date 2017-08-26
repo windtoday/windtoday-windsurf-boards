@@ -8,18 +8,21 @@
   "models": [
     {
       "name": "Blast",
+      "modality": "Freeride",
       "regex": [
         "blast"
       ]
     },
     {
       "name": "Falcon",
+      "modality": "Race",
       "regex": [
         "falcon"
       ]
     },
     {
       "name": "Freewave",
+      "modality": "Wave",
       "regex": [
         "(?:free(?:style.?)?)?wave",
         "fw"
@@ -27,54 +30,77 @@
     },
     {
       "name": "Gecko",
+      "modality": "Freeride",
       "regex": [
         "gecko"
       ]
     },
     {
+      "name": "Grip",
+      "modality": "Wave",
+      "regex": [
+        "grip"
+      ]
+    },
+    {
       "name": "Hawk",
+      "modality": "Freerace",
       "regex": [
         "hawk"
       ]
     },
     {
       "name": "Quad",
+      "modality": "Wave",
       "regex": [
         "quad"
       ]
     },
     {
+      "name": "Radical",
+      "modality": "Wave",
+      "regex": [
+        "radical"
+      ]
+    },
+    {
       "name": "Ray",
+      "modality": "Freerace",
       "regex": [
         "ray"
       ]
     },
     {
       "name": "Ripper",
+      "modality": "Beginner",
       "regex": [
         "ripper"
       ]
     },
     {
       "name": "Skate",
+      "modality": "Freestyle",
       "regex": [
         "skate"
       ]
     },
     {
       "name": "Stubby",
+      "modality": "Wave",
       "regex": [
         "stubby"
       ]
     },
     {
       "name": "Triwave",
+      "modality": "Wave",
       "regex": [
         "triwave"
       ]
     },
     {
       "name": "Viper",
+      "modality": "Beginner",
       "regex": [
         "viper"
       ]

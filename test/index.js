@@ -23,7 +23,11 @@ describe('directory', function () {
   it('detect brand and model', function () {
     const result = directory('vendo tabla starboard futura')
     should(result).be.eql({
-      data: { brand: 'Starboard', model: 'Futura' },
+      data: {
+        modality: 'Freerace',
+        brand: 'Starboard',
+        model: 'Futura'
+      },
       output: 'vendo tabla  '
     })
   })

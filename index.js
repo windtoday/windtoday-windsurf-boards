@@ -37,6 +37,7 @@ function directory (str, opts) {
 
   if (!model.data) return {data, output: brand.matcher.output}
   data.model = get(model.data, 'name')
+  data.modality = get(model.data, 'modality')
 
   return {data, output: model.matcher.output}
 }

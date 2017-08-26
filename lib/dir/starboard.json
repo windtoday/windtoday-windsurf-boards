@@ -51,6 +51,7 @@
     },
     {
       "name": "Futura",
+      "modality": "Freerace",
       "regex": [
         "futura"
       ]
@@ -129,6 +130,7 @@
     },
     {
       "name": "iSonic",
+      "modality": "Race",
       "regex": [
         "i.?sonic"
       ]
