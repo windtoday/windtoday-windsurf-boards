@@ -8,61 +8,85 @@
   "models": [
     {
       "name": "360 Evolution",
+      "modality": "Freeride",
       "regex": [
         "(?:360.)?evolution"
       ]
     },
     {
       "name": "Firemove",
+      "modality": "Freeride",
       "regex": [
         "(?:fire)?move"
       ]
     },
     {
       "name": "Firerace",
+      "modality": "Race",
       "regex": [
         "(?:fire)?race"
       ]
     },
     {
+      "name": "Fireride",
+      "modality": "Freeride",
+      "regex": [
+        "(?:fire)?ride"
+      ]
+    },
+    {
       "name": "Firestorm",
+      "modality": "Freeride",
       "regex": [
         "(?:fire)?storm"
       ]
     },
     {
       "name": "Firewave",
+      "modality": "Wave",
       "regex": [
         "(?:fire)?wave"
       ]
     },
     {
       "name": "Freewave",
+      "modality": "Wave",
       "regex": [
         "(?:free(?:style.?)?)?wave",
         "fw"
       ]
     },
     {
+      "name": "H-Fire",
+      "modality": "Race",
+      "regex": [
+        "h.?fire"
+      ]
+    },
+    {
       "name": "Hardcore",
+      "modality": "Wave",
       "regex": [
         "hardcore"
       ]
     },
     {
       "name": "TwinTip",
+      "modality": "Freestyle",
       "regex": [
         "twin.?tip"
       ]
     },
     {
       "name": "Wave Cult",
+      "modality": "Wave",
       "regex": [
         "cult"
       ]
     },
     {
       "name": "X-Fire",
+      "modality": "Race",
       "regex": [
         "x.?fire"
       ]

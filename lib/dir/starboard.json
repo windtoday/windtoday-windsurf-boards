@@ -9,12 +9,14 @@
   "models": [
     {
       "name": "Acid",
+      "modality": "Wave",
       "regex": [
         "acid"
       ]
     },
     {
       "name": "Atom",
+      "modality": "Freeride",
       "regex": [
         "atom"
       ]
@@ -27,24 +29,28 @@
     },
     {
       "name": "Carve",
+      "modality": "Freeride",
       "regex": [
         "carve"
       ]
     },
     {
       "name": "Evo",
+      "modality": "Wave",
       "regex": [
         "evo"
       ]
     },
     {
       "name": "Flare",
+      "modality": "Freestyle",
       "regex": [
         "flare"
       ]
     },
     {
       "name": "Formula",
+      "modality": "Race",
       "regex": [
         "formula"
       ]
@@ -58,42 +64,49 @@
     },
     {
       "name": "Go",
+      "modality": "Freeride",
       "regex": [
         "go"
       ]
     },
     {
       "name": "Kode",
+      "modality": "Wave",
       "regex": [
         "kode"
       ]
     },
     {
       "name": "Phantom",
+      "modality": "Race",
       "regex": [
         "phantom"
       ]
     },
     {
       "name": "Quad",
+      "modality": "Wave",
       "regex": [
         "quad"
       ]
     },
     {
       "name": "Reactor",
+      "modality": "Wave",
       "regex": [
         "reactor"
       ]
     },
     {
       "name": "Rio",
+      "modality": "Beginner",
       "regex": [
         "rio"
       ]
     },
     {
       "name": "SType",
+      "modality": "Freeride",
       "regex": [
         "s.?type"
       ]
@@ -124,6 +137,7 @@
     },
     {
       "name": "UltraSonic",
+      "modality": "Race",
       "regex": [
         "ultrasonic"
       ]

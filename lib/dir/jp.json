@@ -14,18 +14,21 @@
     },
     {
       "name": "Formula",
+      "modality": "Race",
       "regex": [
         "formula"
       ]
     },
     {
       "name": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "freestyle"
       ]
     },
     {
       "name": "Freewave",
+      "modality": "Wave",
       "regex": [
         "(?:free(?:style.?)?)?wave",
         "fw"
@@ -39,12 +42,14 @@
     },
     {
       "name": "Slalom",
+      "modality": "Race",
       "regex": [
         "slalom"
       ]
     },
     {
       "name": "Speed",
+      "modality": "Race",
       "regex": [
         "speed"
       ]

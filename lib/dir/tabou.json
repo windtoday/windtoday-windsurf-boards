@@ -8,18 +8,21 @@
   "models": [
     {
       "name": "3S",
+      "modality": "Wave",
       "regex": [
         "3s"
       ]
     },
     {
       "name": "Bullitt",
+      "modality": "Freeride",
       "regex": [
         "bullitt"
       ]
     },
     {
       "name": "Da Curve",
+      "modality": "Wave",
       "regex": [
         "(?:da.?)?curve"
       ]
@@ -32,18 +35,21 @@
     },
     {
       "name": "Manta",
+      "modality": "Race",
       "regex": [
         "manta"
       ]
     },
     {
       "name": "Pocket",
+      "modality": "Wave",
       "regex": [
         "pocket"
       ]
     },
     {
       "name": "Rocket",
+      "modality": "Freeride",
       "regex": [
         "rocket"
       ]
@@ -62,6 +68,7 @@
     },
     {
       "name": "Twister",
+      "modality": "Wave",
       "regex": [
         "twister"
       ]
