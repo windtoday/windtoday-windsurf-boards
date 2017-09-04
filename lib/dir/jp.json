@@ -8,8 +8,9 @@
   "models": [
     {
       "name": "All Ride",
+      "modality": "Freeride",
       "regex": [
-        "(?:all.)?ride"
+        "all(?:.ride)?"
       ]
     },
     {
@@ -36,8 +37,16 @@
     },
     {
       "name": "Magic Ride",
+      "modality": "Freeride",
       "regex": [
-        "(?:magic.)?ride"
+        "magic(?:.ride)?"
+      ]
+    },
+    {
+      "name": "Quad",
+      "modality:": "Wave",
+      "regex": [
+        "quad"
       ]
     },
     {
@@ -56,12 +65,14 @@
     },
     {
       "name": "Super Lightwind",
+      "modality": "Race",
       "regex": [
         "(?:super.)?lightwind"
       ]
     },
     {
       "name": "Super Sport",
+      "modality": "Freerace",
       "regex": [
         "super.?sport(?:.?pro(?:.?edition)?)?",
         "sport(?:.?pro(?:.?edition)?)?"
@@ -69,6 +80,7 @@
     },
     {
       "name": "Thruster Quad",
+      "modality": "Wave",
       "regex": [
         "thruster(?:.quad)?"
       ]
@@ -81,6 +93,7 @@
     },
     {
       "name": "X-Cite Ride Plus",
+      "modality": "Freeride",
       "regex": [
         "x.cite(?:.?ride(?:.?plus)?)?"
       ]
