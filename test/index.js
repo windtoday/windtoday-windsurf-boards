@@ -31,4 +31,15 @@ describe('directory', function () {
       output: 'vendo tabla  '
     })
   })
+
+  it('case insensitive', function () {
+    should(directory('jp australia radical thruster quad')).be.eql({
+      data: {
+        brand: 'JP Australia',
+        modality: 'Wave',
+        model: 'Quad'
+      },
+      output: ' radical thruster '
+    })
+  })
 })
