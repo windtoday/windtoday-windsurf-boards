@@ -44,7 +44,7 @@
     },
     {
       "name": "Quad",
-      "modality:": "Wave",
+      "modality": "Wave",
       "regex": [
         "quad"
       ]
