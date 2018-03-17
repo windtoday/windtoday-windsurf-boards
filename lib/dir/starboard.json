@@ -31,7 +31,8 @@
       "name": "Carve",
       "modality": "Freeride",
       "regex": [
-        "carve"
+        "carve",
+        "carve.?iq"
       ]
     },
     {

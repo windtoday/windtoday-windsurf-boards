@@ -92,10 +92,10 @@
       ]
     },
     {
-      "name": "X-Cite Ride Plus",
+      "name": "X-Cite Ride",
       "modality": "Freeride",
       "regex": [
-        "x.cite(?:.?ride(?:.?plus)?)?"
+        "x.?cite"
       ]
     }
   ]
