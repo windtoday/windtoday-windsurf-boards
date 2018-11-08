@@ -5,7 +5,7 @@ const get = require('lodash.get')
 
 const createFinBrand = require('./lib/find-brand')
 const createFinModel = require('./lib/find-model')
-const dir = require('req-all')('./lib/dir')
+const dir = require('import-modules')('./lib/dir')
 
 const DEFAULT_OPTS = {
   findModel: true
