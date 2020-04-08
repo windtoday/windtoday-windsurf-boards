@@ -27,7 +27,7 @@
     "lodash.get": "~4.4.2",
     "regex-word-boundary": "~1.1.0",
     "import-modules": "~2.0.0",
-    "str-match": "~2.1.1"
+    "str-match": "~2.1.4"
   },
   "devDependencies": {
     "coveralls": "latest",
